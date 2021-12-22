@@ -11,6 +11,7 @@ public class ContactList {
 		this.state=state;
 		this.zip=zip;
 		this.phoneNumber=phoneNumber;
+		this.email=email;
 	}
 	@Override
 	public String toString() {
